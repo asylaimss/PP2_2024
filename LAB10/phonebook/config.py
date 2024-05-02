@@ -1,0 +1,5 @@
+host="localhost"
+database="postgres"
+user="postgres"
+password="asylaim$S975"
+port="5432"
